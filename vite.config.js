@@ -6,4 +6,5 @@ export default defineConfig({
 			usePolling: true, // Enable polling for file changes
 		},
 	},
+	base: '/Blackjack/',
 });
